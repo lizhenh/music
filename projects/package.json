@@ -12,7 +12,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "better-scroll": "^1.13.4",
     "js-base64": "^2.5.0",
     "lib-flexible": "^0.3.2",
